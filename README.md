@@ -26,4 +26,4 @@ You can download the project or download and import [this](https://mega.nz/file/
 
 ![4](https://user-images.githubusercontent.com/60036065/227779503-9a369842-07d1-4d2e-b6ea-7c894aeeb12e.jpg)
 
-**DOESN'T INCLUDE CHARACTER ASSETS AND SHADERS!*
+**DOESN'T INCLUDE CHARACTER ASSETS AND SHADERS!**
