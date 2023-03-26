@@ -5,7 +5,7 @@
 
 You can download the project or download and import [this](https://mega.nz/file/pmoEHSpJ#bkb6lMUUlGS1jKv_GQ5lgt-J-KI70gjQB6kBk8liTy4) package.
 
-##Setup
+## Setup
 
 1. Add [this](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631) Joystick Pack asset to your assets and download.
 2. Select all and import the Joystick Pack.
